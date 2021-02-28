@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaceSlap02)](https://github.com/FaceSlap02/FaceSlap02)
 
 How to reach me
-* Discord: Activated_#1539 [ID: https://github.com/FaceSlap02/FaceSlap02]
+* Discord: Activated_#1539 [ID: 310401939177209866]
 * MC-Market: https://www.mc-market.org/members/130472/
 * My discord server: [Click to join](https://discord.com/invite/kFUqPAj)
 
