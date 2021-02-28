@@ -7,6 +7,17 @@ How to reach me
 * MC-Market: https://www.mc-market.org/members/130472/
 * My discord server: [Click to join](https://discord.com/invite/kFUqPAj)
 
+Some projects of me:
+* AquaCore
+* AquaUHC
+* BungeeStaff
+* FateUHC
+* FateMeetup
+* FateHub
+* AquaPunishments
+* BungeeSync
+* Lot of private ones
+
 Currently working and maintaining:
 * AquaCore
 * AquaUHC
