@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm FaceSlap_ aka Activated
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmtvc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmtvc&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 📫 How to reach me
 * Discord: Activated_#1539 [ID: 310401939177209866] don't get yourself scammed by impersonators 🐊 
